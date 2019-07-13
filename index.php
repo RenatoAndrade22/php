@@ -1,5 +1,5 @@
 <?php
 
-	echo "<h1>Meu primeiro repositorio<h1>";
+	echo "<h1>Meu primeiro repositório<h1>";
 
 ?>
